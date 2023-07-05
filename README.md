@@ -1,4 +1,4 @@
-<h2 align="left">🐧 - Pizu</h2>
+<h2 align="left">Hi👋, i'm Pizu!</h2>
 
 ###
 
