@@ -10,6 +10,6 @@
 
 ###
 
-[![GitHub WidgetBox - by Jurredr](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c,lua)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox - by Jurredr](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c,lua,py)](https://github.com/Jurredr/github-widgetbox)
 
 ###
