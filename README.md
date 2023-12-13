@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋, I'm Pizu!</h2>
+<h2 align="left">Hi👋, I am Pizu!</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">👋 I'm currently mastering/learning LUA, JavaScript (JS), and Java. Feel free to explore my GitHub profile to see my latest projects and contributions.</h2>
+<h2 align="left">👋 I am currently mastering/learning LUA, JavaScript (JS), and Java. Feel free to explore my GitHub profile to see my latest projects and contributions.</h2>
 
 ###
 
