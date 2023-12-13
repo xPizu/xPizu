@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋, i'm Pizu!</h2>
+<h2 align="left">Hi👋, I'm Pizu!</h2>
 
 ###
 
@@ -6,10 +6,10 @@
 
 ###
 
-<h2 align="left">Languages that i am currently mastering/learning:</h2>
+<h2 align="left">👋 I'm currently mastering/learning LUA, JavaScript (JS), and Java. Feel free to explore my GitHub profile to see my latest projects and contributions.</h2>
 
 ###
 
-[![GitHub WidgetBox - by Jurredr](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,lua,python,java)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox - by Jurredr](https://github-widgetbox.vercel.app/api/skills?languages=lua,js,java)](https://github.com/Jurredr/github-widgetbox)
 
 ###
