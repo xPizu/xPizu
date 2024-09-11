@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Platonia Studios** and **SubTracker**.
+🔭 I’m currently working on **Platonia Studios** 🚀 and **SubTracker** 📊.
 
 
 ## 🌐 Socials:
