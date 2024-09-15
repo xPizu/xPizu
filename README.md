@@ -2,7 +2,7 @@
 🔭 I’m currently working for **Platonia Studios**<br>
 And on an independent project, **SubTracker** 📊
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/874371280177102889) 
 
 # 💻 Tech Stack:
