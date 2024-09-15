@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on **Platonia Studios** 🚀 and **SubTracker** 📊.
-
+🔭 I’m currently working for **Platonia Studios**
+And on an independent project, SubTracker 📊
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/874371280177102889) 
